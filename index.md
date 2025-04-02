@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Hai Dang's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Quach Hai Dang
+Ai engineer.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -22,21 +22,13 @@ Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.w
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Automative cars, face recognition, image stitching
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
+`2022 - now`
+__VNUHCM University of Science, Vietnam__
 
 - Fellow
 
